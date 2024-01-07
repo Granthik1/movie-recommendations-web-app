@@ -1,0 +1,6 @@
+numpy
+streamlit
+pickle5
+protobuf
+scikit-learn
+requests
