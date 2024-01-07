@@ -4,3 +4,4 @@ pickle5
 protobuf
 scikit-learn
 requests
+pickle-mixin
