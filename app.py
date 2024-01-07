@@ -83,50 +83,50 @@ if st.button('Show Recommendations'):
     with col1:
         st.image(posters[0])
         st.text(recommendations[0])
-        release = "Release Date: "+years[0]
+        release = "Release Date: "+str(years[0])
         st.text(release)
     with col2:
         st.image(posters[1])
         st.text(recommendations[1])
-        release = "Release Date: "+years[1]
+        release = "Release Date: "+str(years[1])
         st.text(release)
     with col3:
         st.image(posters[2])
         st.text(recommendations[2])
-        release = "Release Date: "+years[2]
+        release = "Release Date: "+str(years[2])
         st.text(release)
     with col4:
         st.image(posters[3])
         st.text(recommendations[3])
-        release = "Release Date: "+years[3]
+        release = "Release Date: "+str(years[3])
         st.text(release)
     with col5:
         st.image(posters[4])
         st.text(recommendations[4])
-        release = "Release Date: "+years[4]
+        release = "Release Date: "+str(years[4])
         st.text(release)
     with col1:
         st.image(posters[5])
         st.text(recommendations[5])
-        release = "Release Date: "+years[5]
+        release = "Release Date: "+str(years[5])
         st.text(release)
     with col2:
         st.image(posters[6])
         st.text(recommendations[6])
-        release = "Release Date: "+years[6]
+        release = "Release Date: "+str(years[6])
         st.text(release)
     with col3:
         st.image(posters[7])
         st.text(recommendations[7])
-        release = "Release Date: "+years[7]
+        release = "Release Date: "+str(years[7])
         st.text(release)
     with col4:
         st.image(posters[8])
         st.text(recommendations[8])
-        release = "Release Date: "+years[8]
+        release = "Release Date: "+str(years[8])
         st.text(release)
     with col5:
         st.image(posters[9])
         st.text(recommendations[9])
-        release = "Release Date: "+years[9]
+        release = "Release Date: "+str(years[9])
         st.text(release)
