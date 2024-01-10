@@ -10,4 +10,4 @@ I apologize if the specific movie you're searching for is not available on the w
 # Web APP Link
 The Web app is hosted using Streamlit Community.
 You can access the web app from the link:
-https://granthik-movie-recommendations-app.streamlit.app/
+https://granthik-movie-recommendations-webapp.streamlit.app/
