@@ -80,6 +80,7 @@ movie = st.selectbox('Select movie from dropdown',movies_list)
 if st.button('Show Recommendations'):
     recommendations, posters, years = movies_recommend(movie)
     col1,col2,col3,col4,col5 = st.columns(5)
+    
     with col1:
         st.image(posters[0])
         st.text(recommendations[0])
