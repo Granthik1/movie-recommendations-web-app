@@ -129,5 +129,5 @@ if st.button('Show Recommendations'):
     with col5:
         st.image(posters[9])
         st.text(recommendations[9])
-        st.text("Release Date:"))
-        st.text(str(years[9])
+        st.text("Release Date:")
+        st.text(str(years[9]))
