@@ -1,6 +1,10 @@
 # Movie Recommendations Web App
 
-Welcome to my movie recommendations web app built using Machine Learning technique- Cosine Similarity. The extensive Movies Dataset includes approximately 12,000 movies. 
+The project is built using Machine Learning with
+Cosine Similarity. Users can select a movie from a provided list to receive personalized
+recommendations, with the model predicting and displaying 10 suggestions. The current
+database comprises 12,000 movies spanning from 2008 to the current year, with plans for
+future database upgrades.
 I apologize if the specific movie you're searching for is not available on the web app. Feel free to explore the recommendations and discover new and exciting films!
 
 # Web APP Link
